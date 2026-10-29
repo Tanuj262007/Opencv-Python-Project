@@ -145,6 +145,25 @@ Concepts include:
 * Releasing the webcam properly
 
 ---
+##  OPENCV SCREENSHOT 
+![alt text](OPENCV_OUTPUT_1.png) 
+![alt text](OPENCV_OUTPUT_2.png) 
+![alt text](OPENCV_OUTPUT_3.png) 
+![alt text](OPENCV_OUTPUT_4.png) 
+![alt text](OPENCV_OUTPUT_5.png) 
+![alt text](OPENCV_OUTPUT_6.png) 
+![alt text](OPENCV_OUTPUT_7.png) 
+![alt text](OPENCV_OUTPUT_8.png) 
+![alt text](OPENCV_OUTPUT_9.png) 
+![alt text](OPENCV_OUTPUT_10.png) 
+![alt text](OPENCV_OUTPUT_11.png) 
+![alt text](OPENCV_OUTPUT_12.png) 
+![alt text](OPENCV_OUTPUT_13.png) 
+![alt text](OPENCV_OUTPUT_14.png) 
+![alt text](OPENCV_OUTPUT_15.png) 
+![alt text](OPENCV_OUTPUT_16.png) 
+![alt text](OPENCV_OUTPUT_17.png)
+![alt text](OPENCV_OUTPUT_18.png) 
 
 ## 📂 Project Structure
 
